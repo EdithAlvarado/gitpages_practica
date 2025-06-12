@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/proyecto_alumnos_miercoles/static/css/main.0f1dfdd7.css",
-    "main.js": "/proyecto_alumnos_miercoles/static/js/main.4c893f0b.js",
+    "main.js": "/proyecto_alumnos_miercoles/static/js/main.bcb2d3a7.js",
     "static/media/damir-bosnjak.jpg": "/proyecto_alumnos_miercoles/static/media/damir-bosnjak.efcaca50b633c2ba2ba9.jpg",
     "static/media/clem-onojeghuo-2.jpg": "/proyecto_alumnos_miercoles/static/media/clem-onojeghuo-2.d16702ce00aa38f275c0.jpg",
     "static/media/ayo-ogunseinde-2.jpg": "/proyecto_alumnos_miercoles/static/media/ayo-ogunseinde-2.f4af8f2c98f6968c5ae9.jpg",
@@ -18,6 +18,6 @@
   },
   "entrypoints": [
     "static/css/main.0f1dfdd7.css",
-    "static/js/main.4c893f0b.js"
+    "static/js/main.bcb2d3a7.js"
   ]
 }
